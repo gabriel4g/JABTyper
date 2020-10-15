@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+h1, h2, li, p, td { text-align: center; }
+
+th { padding: 10pt; text-align: center; }
+
+p {
+    margin: 4%;
+}
+
+ul { list-style: none; }
+
+li { margin-right: 4pt; }
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.phrase-btn {
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+    margin-bottom: 4%;
+}
+
+#reset-btn {
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-bottom: 4%;
+}
+
+
+
+
