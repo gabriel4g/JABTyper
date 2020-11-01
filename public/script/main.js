@@ -25,7 +25,7 @@ textArea.onkeydown = function() {
     let phrase = textArea.value;
     let numberCharacterEntered = phrase.lenght;
 
-    document.querySelector('#number-characters').textContent = phrase.lenth;
+    document.querySelector('#number-characters').textContent = phrase.length;
 
     numberCharacterEntered = phrase.split(' ').length;
     document.querySelector('#number-words').textContent = numberCharacterEntered;
